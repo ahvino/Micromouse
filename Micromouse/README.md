@@ -1,3 +1,0 @@
-# Micromouse
-Team Pizza's Micromouse
-This is Team pizza's Micromouse...
